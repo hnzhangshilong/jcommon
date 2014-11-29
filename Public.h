@@ -20,6 +20,7 @@
 
 #include <stdio.h>
 #include <assert.h>
+#include <stdlib.h>
 
 #define SUCCESS 0
 #define ERROR -1
