@@ -17,8 +17,8 @@
  */
 
 
-#ifndef GIT_JCOMMON_SQLIST_H
-#define GIT_JCOMMON_SQLIST_H
+#ifndef GIT_JCOMMON_STACK_H
+#define GIT_JCOMMON_STACK_H
 
 #define MAXSIZE 20
 typedef int ElemType;
